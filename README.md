@@ -1,1 +1,2 @@
-# hw2
+# Jacob Betts
+Homework 2
