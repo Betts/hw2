@@ -22,7 +22,7 @@ hw2b.java Contains my solutions for problem 2.
 
 Problem 2:
 
-In this problem the Minotaur has returned, and now he is showing his guests his crystal vase. We are presented with three stategies that we must compare and choose from. 
+In this problem the Minotaur has returned, and now he is showing his guests his crystal vase. Only one person is allowed in the room at a time to view the vase. We are presented with three stategies that we must compare and choose from to ensure that only one guest at a time can view the vase. 
 
 I will discuss the advantages and disadvantages of each strategy now.
 
